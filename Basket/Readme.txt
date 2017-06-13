@@ -2,8 +2,8 @@ This project shows a simple your basket app done for AKQA assignment.
 
 Points to note
 1) Have two versions of HTML
-	- One for Dev(index.html loads multiple css and js)
-	- Another for production (index_production.html loads one css and js only)
+	- One for Dev(basket.html loads multiple css and js)
+	- Another for production (index.html loads one css and js only)
 
 2) Have configured grunt tasks with the project which could be used for the generations of production files. Steps in build
 	- Clean any earlier existing build folder
