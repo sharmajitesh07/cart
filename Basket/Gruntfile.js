@@ -7,8 +7,8 @@ module.exports = function(grunt) {
     jshint: {
       all: [
         'Gruntfile.js',
-        'js/basket.js'
-        /*'js/basket_item.js'*/
+        'js/basket.js',
+        'js/basket_item.js'
       ],
       options: {
         jshintrc: '.jshintrc',
